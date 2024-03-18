@@ -17,4 +17,4 @@ demo = gr.Interface(
     outputs="text",
     allow_flagging=False)
     
-demo.launch()
+demo.launch(server_port=8080)
