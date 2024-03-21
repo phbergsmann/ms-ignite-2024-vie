@@ -1,3 +1,7 @@
 gradio
 langchain
 langchain_openai
+langchain-community
+langchainhub
+chromadb
+bs4
