@@ -16,4 +16,4 @@ WORKDIR app/
  
 COPY ./app.py /app/app.py
  
-CMD ["strepythonamlit", "app.py"]
+CMD ["python", "app.py"]
